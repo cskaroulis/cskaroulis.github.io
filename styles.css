@@ -1,4 +1,12 @@
 /* gives some breathing space to Bootstrap's h4  */
+h2 {
+  margin-bottom: 30px;
+}
+
+.light-bkg {
+  background-color: #e3f2fd;
+}
+
 .exercise-title {
   margin-top: 30px;
 }
@@ -9,4 +17,17 @@
 
 #page-about footer {
   margin-top: 30px;
+}
+
+img.exercise {
+  width: 350px;
+  height: 350px;
+  opacity: 0.9;
+}
+
+.py-5 {
+  padding-top: 0 !important;
+}
+.h-15 {
+  height: 15% !important;
 }
